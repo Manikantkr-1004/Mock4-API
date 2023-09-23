@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image":"https://www.stockland.com.au/shopping-centres/products/product-images-scraped/4fa4f3531437fea7.png",
+      "name": "Mens T-Shirt Cotton",
+      "des": "This is a pure cotton shirt for summer season, which you must need to buy.",
+      "gender": "Male",
+      "category": "Shirts",
+      "price":399
+    }
+  ]
+}
